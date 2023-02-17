@@ -1,4 +1,4 @@
-# Ship_Design_SQL
+# Ship_Project_SQL
 
 Inspections by the National Health Surveillance Program for Cruise Ships are carried out by Anvisa inspectors and aim to assess the health safety of food and water for human consumption offered on board. The Cleaning and Disinfection Plan (PLD) of the cabins is also monitored, the water in the swimming pools and whirlpools is checked, the management of solid waste, the air conditioning system and the onboard hospital, where it is possible to analyze the number of visits, as well as the health conditions of passengers who underwent consultations on site.
 
