@@ -2,7 +2,9 @@
 
 Inspections by the National Health Surveillance Program for Cruise Ships are carried out by Anvisa inspectors and aim to assess the health safety of food and water for human consumption offered on board. The Cleaning and Disinfection Plan (PLD) of the cabins is also monitored, the water in the swimming pools and whirlpools is checked, the management of solid waste, the air conditioning system and the onboard hospital, where it is possible to analyze the number of visits, as well as the health conditions of passengers who underwent consultations on site.
 
-This project aimed to carry out an analysis of data in inspections made by ANVISA. Such a project was developed in the 'SQL for Data Science' course at the Data Science Academy.
+This data set is public and is available in the link: https://dados.gov.br/dados/conjuntos-dados/dados-abertos-de-inspecao-em-navios-de-cruzeiro
+
+This project aimed to carry out an analysis of data in inspections made by ANVISA. Such a project was developed in the 'SQL for Data Science' course at the Data Science Academy. The SQBD used in this project was MySQL.
 
 The data has been loaded into MySQL and the following questions have been answered:
 
